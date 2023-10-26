@@ -1,0 +1,7 @@
+apiVersion: isaac.mblb.net/v1alpha1
+kind: LakeHouse
+metadata:
+  name: lk1
+spec:
+  resourceGroupName: rg-team1-team
+  providerConfigName: provider-config-team1
